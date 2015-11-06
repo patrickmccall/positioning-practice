@@ -1,1 +1,21 @@
 /* your styles for float-practice.html here */
+
+
+.blue, .red {
+  float: left;
+  /*position:fixed;*/
+  /*padding-bottom: 4rem;*/
+}
+/*.red{float:left;}*/
+
+/*.pink {
+  clear: both;
+}*/
+/*.orange, .green , .pink, .purple, .yellow, .black {float:right;
+                                                   
+  }*/
+.orange{  clear:both;}
+.orange, .green,  .purple, .pink,.yellow, .black {
+
+  float: right;
+}
