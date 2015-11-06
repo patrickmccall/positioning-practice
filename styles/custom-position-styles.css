@@ -1,1 +1,49 @@
 /* your styles for position-practice.html here */
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  height: 18rem;
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  overflow: hidden;
+}
+
+  header h1 {
+    position: relative;
+    left: 80%;
+    top: -5%;
+  }
+
+  header p {
+    position: relative;
+    left: 80%;
+    top: 20%;
+  }
+
+.pink {
+  margin-top: 18rem;
+}
+
+  .pink img {
+    float: left;
+  }
+
+p {
+  font-size: 300%;
+  font-family: 'Lato', sans-serif;
+}
+
+footer {
+  font-weight: 900;
+}
+
+h1 {
+  font-style: oblique;
+}
