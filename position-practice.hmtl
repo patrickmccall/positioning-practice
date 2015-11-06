@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles/basic-styles.css">
+  <link rel="stylesheet" href="styles/custom-position-styles.css">
+  </head>
+<body class="position">
+  <article>
+    <header class="blue">
+      <p>Tagline</p>
+      <h1>Headline</h1>
+      <img src="http://placekitten.com/500/200" alt="cute kitten relaxing">
+    </header>
+
+    <div class="pink">
+      <p>Plan steps for world domination nap all day, yet brown cats with pink ears. Cat slap dog in face. Stick butt in face scream at teh bath so thug cat so stretch have secret plans. Chew on cable eat and than sleep on your face stare at ceiling, yet thug cat for knock over christmas tree refuse to leave cardboard box, cat is love, cat is life. Bathe private parts with tongue then lick owner's face meow hate dog. Cat slap dog in face destroy couch. Eat a plant, kill a hand vommit food and eat it again, intrigued by the shower, and chase imaginary bugs, stick butt in face, or poop in litter box, scratch the walls. Rub face on owner then cats take over the world hide when guests come over. Wake up human for food at 4am shake treat bag, and roll on the floor purring your whiskers off scratch leg; meow for can opener to feed me but chase imaginary bugs. </p>
+      <img src="http://placekitten.com/300/500" alt="cute kitten relaxing">
+      <button>Take Action!</button>
+      <p>Find empty spot in cupboard and sleep all day tuxedo cats always looking dapper eat and than sleep on your face tuxedo cats always looking dapper or mark territory. Throwup on your pillow meow yet wake up human for food at 4am, knock over christmas tree nap all day, and get video posted to internet for chasing red dot and lick butt. Shove bum in owner's face like camera lens jump around on couch, meow constantly until given food, , yet hunt anything that moves leave fur on owners clothes for refuse to leave cardboard box and hate dog. Asdflkjaertvlkjasntvkjn (sits on keyboard). Missing until dinner time. Shove bum in owner's face like camera lens stare at the wall, play with food and get confused by dust sit in box. Chew on cable kitty loves pigs. Jump around on couch, meow constantly until given food, chase red laser dot drink water out of the faucet swat at dog, yet human give me attention meow. My left donut is missing, as is my right chew on cable leave dead animals as gifts behind the couch, for sleep in the bathroom sink but scream at teh bath. Hide head under blanket so no one can see. Cat is love, cat is life plan steps for world domination roll on the floor purring your whiskers off. Peer out window, chatter at birds, lure them to mouth present belly, scratch hand when stroked i like big cats and i can not lie mark territory, meow loves cheeseburgers so make meme, make cute face. Cat is love, cat is life throwup on your pillow immediately regret falling into bathtub for steal the warm chair right after you get up. Claws in your leg make muffins thug cat scream at teh bath. Spread kitty litter all over house scream at teh bath stare at wall turn and meow stare at wall some more meow again continue staring and need to chase tail, for lick the plastic bag but where is my slave?</p>
+    </div>
+  </article>
+  <footer class="orange">
+    <p>Asdflkjaertvlkjasntvkjn (sits on keyboard).</p>
+  </footer>
+</body>
+</html>
